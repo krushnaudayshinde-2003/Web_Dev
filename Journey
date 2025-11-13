@@ -1,0 +1,11 @@
+Day 42
+
+DOM :  Done with the Basics 
+- Document Selection✅
+   (querySelector, getElementByID, querySelectorAll)
+- Changing HTML✅
+   (innerHTML,  textContent)
+- Changing CSS✅
+   (.style)
+- Event Listeners✅
+   ( addEventListener() )
