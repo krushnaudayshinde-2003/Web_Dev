@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width:100%;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+button{
+    border: none;
+    padding: 10px;
+    font-size: 40px;
+    height: 200px;
+    width: 300px;
+    background-color: black;
+    color: aliceblue;
+}
+#action{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+
+}
